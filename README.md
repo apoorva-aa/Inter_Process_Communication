@@ -1,6 +1,6 @@
 # Inter_Process_Communication
 
-Part of an assignment for the Operating System course (CSE-231) at IIIT Delhi.
+Implemented as a part of an assignment for the Operating System course (CSE-231) at IIIT Delhi.
 
 ## Question Statement
 
